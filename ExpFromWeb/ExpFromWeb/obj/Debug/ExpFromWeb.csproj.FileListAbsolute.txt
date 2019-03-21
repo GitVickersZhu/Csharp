@@ -1,0 +1,7 @@
+D:\Projects\C#\ExpFromWeb\ExpFromWeb\bin\Debug\ExpFromWeb.exe.config
+D:\Projects\C#\ExpFromWeb\ExpFromWeb\bin\Debug\ExpFromWeb.exe
+D:\Projects\C#\ExpFromWeb\ExpFromWeb\bin\Debug\ExpFromWeb.pdb
+D:\Projects\C#\ExpFromWeb\ExpFromWeb\obj\Debug\ExpFromWeb.csprojAssemblyReference.cache
+D:\Projects\C#\ExpFromWeb\ExpFromWeb\obj\Debug\ExpFromWeb.csproj.CoreCompileInputs.cache
+D:\Projects\C#\ExpFromWeb\ExpFromWeb\obj\Debug\ExpFromWeb.exe
+D:\Projects\C#\ExpFromWeb\ExpFromWeb\obj\Debug\ExpFromWeb.pdb
